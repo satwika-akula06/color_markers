@@ -15,7 +15,7 @@ The boxes are displayed horizontally in the center with spacing between them.
 
 ## 🖼️ Preview
 
-![Color Markers Preview](./preview.png)
+![Color Markers Preview](markers_preview.png.png)
 
 ## 🗂️ Project Structure
 
